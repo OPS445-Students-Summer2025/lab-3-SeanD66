@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python 3
 '''Lab 3 Part 1 script- functions'''
 #Author ID: sdaweng
 
