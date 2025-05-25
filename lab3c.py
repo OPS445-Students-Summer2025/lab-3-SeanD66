@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python 3
 '''Lab 3 Inv 2 function operate'''
 # Author ID: sdaweng
 
